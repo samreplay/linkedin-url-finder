@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(powershell:*)",
+      "Bash(dir)",
+      "Bash(del debug-no-results.png scraper-original.js test-api.ps1)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
